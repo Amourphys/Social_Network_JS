@@ -1,0 +1,21 @@
+.item {
+    color: darkcyan;
+}
+
+.item img {
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.likes {
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    color: chocolate;
+}
+
+.likeStatus {
+    margin-left: 5px;
+}
